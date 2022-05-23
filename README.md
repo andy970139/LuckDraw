@@ -45,10 +45,16 @@
       * `handle.jsp:處理後端新增活動、查詢活動、白名單資訊、並建立抽獎紀錄的後端程式(任務參數由get傳入，內容參數由post傳入)`         
       * `historyui.jsp:該活動目前已抽出的名單與時間`   
 
-  網頁後端設計:
+  網頁後端設計:  
   
   網頁介面設計:  
+  頁面共同功能設計有:左上角logo提供返回首頁連結，列表提交介面右下角皆為返回鍵，網頁下滑右下角會出現返回頂端懸浮按鈕提供使用者快速回到頂端。  
+  
   ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/index.png)  
-(首頁設計)
-      
+(首頁設計 index.html)  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/create.png)  
+(建立活動頁面設計)  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/activity.png)  
+(活動選單頁面設計 activity.jsp)  
+
       
