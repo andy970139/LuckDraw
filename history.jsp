@@ -51,7 +51,7 @@
 	<%@ page contentType="text/html;charset=utf-8"%>
 
 	<%@ page import="java.sql.*"%>
-	<title>抽獎程式</title>
+	<title>抽獎紀錄</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -93,9 +93,9 @@
 		<div id="main">
 			<div class="inner">
 				<header>
-					<h1>抽獎活動<br />
+					<h1>抽獎紀錄<br />
 					</h1>
-					<p>本網頁依獎項抽出(小至大)、抽獎紀錄檢閱、建立抽獎活動 </p>
+					<p>查看抽獎紀錄 </p>
 				</header>
 				<section class="tiles">
 

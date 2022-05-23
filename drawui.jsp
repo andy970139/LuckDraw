@@ -19,7 +19,7 @@
 
 
 
-<title>抽獎程式</title>
+<title id='title'>抽獎活動</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <link rel="stylesheet" href="assets/css/main.css" />
@@ -124,6 +124,7 @@ while(rs.next()){
 
 
 	$(document).ready(function(){	
+		$("#title").text("# <%=aid%>")
 
 		$("#gotop").click(function(){
 			jQuery("html,body").animate({
