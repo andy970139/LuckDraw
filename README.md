@@ -35,5 +35,15 @@
  網頁樹狀結構圖如下:  
    
  ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/web_structure.png)  
- 
- 
+   
+ *檔案功能:
+      *`index.html:作為抽獎程式的使用入口，由此進入建立、查看與抽獎、紀錄的主要功能入口`
+      *`建立活動.jsp:提供建立抽獎活動的ui介面，輸入該活動參數，再由後端handle.jsp程式處理建立活動任務` 
+      *`activity.jsp:查看已建立的活動，由此選擇要進行抽獎的活動` 
+      *`drawui.jsp:提供抽獎的ui介面，按下該獎項抽獎後，由後端handle.jsp程式進行活動資訊與白名單查詢並抽出獎項，呈現該次抽獎名單，並存入紀錄` 
+      *`history.jsp:查看已進行抽獎或是完成抽獎的活動，選擇要查看紀錄的特定活動介面`  
+      *`handle.jsp:處理後端新增活動、查詢活動、白名單資訊、並建立抽獎紀錄的後端程式(任務參數由get傳入，內容參數由post傳入)`       
+      *`historyui.jsp:該活動目前已抽出的名單與時間` 
+      
+      
+      
