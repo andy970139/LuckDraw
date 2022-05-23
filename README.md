@@ -27,4 +27,6 @@
   2. history:儲存抽獎紀錄，其欄位有hid(系統自動產生)、aid(活動編號)、wid(員工代號)、prize(獎項)、timestamp(系統自動產生的時間戳，紀錄該人員被抽出的時間)    
   3. whitelist:儲存白名單(於建立活動時設定白名單人員，如未設定則默認全員皆可參與該抽獎活動)，其欄位有id(系統自動產生)、aid(活動編號)、wid(員工代號)  
   4. worker:員工名單(由worker.csv產生)，其欄位有id(員工代號，型態為W+6碼數字如:W000001)、name(員工名子)、certifi(設計為權限，未使用)  
+ 資料表關聯如下圖  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/er.png)
  
