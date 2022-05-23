@@ -52,9 +52,28 @@
   
   ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/index.png)  
 (首頁設計 index.html)  
+  
+  
  ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/create.png)  
 (建立活動頁面設計)  
+  
+  
  ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/activity.png)  
 (活動選單頁面設計 activity.jsp)  
+  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/drawui.png)  
+(抽獎頁面設計 drawui.jsp)  
+  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/draw.png)  
+(中獎名單介面 handle.jsp產生的畫面)   
+  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/history.png)  
+(抽獎記錄選單介面設計 history.jsp)   
+  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/historyui.png)  
+(抽獎記錄介面 historyui.jsp)  
+  
+ ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/historyui2.png)  
+(抽獎記錄介面 historyui.jsp)
 
       
