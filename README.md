@@ -47,7 +47,7 @@
 
   網頁後端設計:  
     
-   **後端控制程式 **
+   **後端控制程式**
      
  * 後端控制程式主要有handle.jsp與historyui.jsp  
       * handle.jsp  
