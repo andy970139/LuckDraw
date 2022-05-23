@@ -108,7 +108,7 @@
 				<header>
 					<h1>抽獎活動<br />
 					</h1>
-					<p>本網頁依獎項抽出(小至大)、抽獎紀錄檢閱、建立抽獎活動 </p>
+					<p>查閱已建立活動以及各獎項人數 </p>
 							<form method="post" action="drawui.jsp" id="fm">
 	</form>
 				</header>
