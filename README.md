@@ -48,7 +48,7 @@
   網頁後端設計:
   
   網頁介面設計:  
-  ![image]((https://github.com/andy970139/LuckyDraw/blob/main/readme/index.png))  
+  ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/index.png)  
 (首頁設計)
       
       
