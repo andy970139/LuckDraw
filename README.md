@@ -44,6 +44,11 @@
       * `history.jsp:查看已進行抽獎或是完成抽獎的活動，選擇要查看紀錄的特定活動介面`    
       * `handle.jsp:處理後端新增活動、查詢活動、白名單資訊、並建立抽獎紀錄的後端程式(任務參數由get傳入，內容參數由post傳入)`         
       * `historyui.jsp:該活動目前已抽出的名單與時間`   
-      
+
+  網頁後端設計:
+  
+  網頁介面設計:  
+  ![image]((https://github.com/andy970139/LuckyDraw/blob/main/readme/index.png))  
+(首頁設計)
       
       
