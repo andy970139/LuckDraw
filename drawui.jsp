@@ -51,7 +51,7 @@
 
 				<!-- Logo -->
 				<a href="index.html" class="logo">
-					<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">TSMC</span>
+					<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">LuckyDraw</span>
 				</a>
 
 
