@@ -74,7 +74,7 @@
   **網頁介面設計:**  
   頁面共同功能設計有:左上角logo提供返回首頁連結，列表提交介面右下角皆為返回鍵，網頁下滑右下角會出現返回頂端懸浮按鈕提供使用者快速回到頂端。  
   
-  ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/index.png)  
+  ![image](https://github.com/andy970139/LuckyDraw/blob/main/readme/index2.png)  
 (首頁設計 index.html)  
   
   
